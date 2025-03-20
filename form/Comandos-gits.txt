@@ -1,0 +1,19 @@
+## Comandos de Navegação
+
+dir - (lista os diretorios da raiz)
+cd ~ - (retorna para a raiz)
+cd .. - (volta um passo anterior)
+clear -(limpa os comandos anteriores)
+mkdir (nome) - (criar uma pasta)
+mv (nome da pasta) (nome novo) - comando que renomea a pasta
+
+mv (nome da pasta) (nome novo) - comando que renomea a pasta
+rmdir (nome da pasta) - comando que deleta a pasta
+ mkdir (nome) - (criar uma pasta)
+
+##movimentando arquivos
+mv ~/documents/teste/index.html
+~/documents/teste
+
+git init - cria uma master 
+git add (arqv-existente) - adiciona um aqrquivo
